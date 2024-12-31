@@ -6,3 +6,5 @@ development concepts. As part of this event, they plan to demonstrate a project 
 product grid using CSS Grid, and individual product cards and sidebar using Flex and block display model
 in React. Each component will be styled using external CSS to create a cohesive and responsive layout. How can
 they set up this example to effectively showcase these layout techniques in a React application?
+
+23SDCS12 A / E / R – FULL STACK APPLICATION DEVELOPMENT LAB & SKILL WORKBOOK

@@ -1,0 +1,8 @@
+Prerequisites:
+Knowledge on the HTML elements and styling
+Exercise:
+Faculty and students are organizing a "Greeks for Greeks" student chapter focused on teaching practical web
+development concepts. As part of this event, they plan to demonstrate a project that illustrates how to build a
+product grid using CSS Grid, and individual product cards and sidebar using Flex and block display model
+in React. Each component will be styled using external CSS to create a cohesive and responsive layout. How can
+they set up this example to effectively showcase these layout techniques in a React application?

@@ -1,0 +1,7 @@
+VIVA QUESTIONS:
+1. What is the difference between display: grid, display: flex, and display: block?
+2. Explain the CSS Grid layout. How does it help in building complex layouts?
+3. What is the grid-template-columns and grid-template-rows property in CSS Grid? How do you use
+them?
+4. How does Flexbox simplify layout management in CSS?
+5. What is the difference between justify-content in Flexbox and CSS Grid?
